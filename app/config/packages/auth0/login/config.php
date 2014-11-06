@@ -10,7 +10,7 @@ return array(
     |
     */
 
-    // 'domain'        => 'XXXX.auth0.com',
+     'domain'        => 'derayah.auth0.com',
     /*
     |--------------------------------------------------------------------------
     |   Your APP id
@@ -19,7 +19,7 @@ return array(
     |
     */
 
-    // 'client_id'     => 'XXXX',
+    'client_id'     => 'XnDIIRqNlEkmg1ZDnA91IfM45OBFFuNd',
 
     /*
     |--------------------------------------------------------------------------
@@ -28,7 +28,7 @@ return array(
     |   As set in the auth0 administration page
     |
     */
-    // 'client_secret' => 'XXXXX',
+    'client_secret' => '3H-auvWeMK4S-XU80eILGXtM41ptGFImvU2iuTllzaVJjvq_Jv_pvEFOBuCzZwHL',
 
 
    /*
@@ -40,7 +40,7 @@ return array(
     |
     */
 
-    // 'redirect_uri'  => 'http://<host>/auth0/callback'
+    'redirect_uri'  => 'http://localhost:8000/auth0/callback'
 
 
 
